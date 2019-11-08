@@ -1,0 +1,16 @@
+{
+	"noticias": [
+		{
+			"titular": "La Medalla de Honor \"Ciudad de Daimiel\" busca candidatos",
+			"noticia": "El Ayuntamiento de Daimiel abre este jueves la convocatoria de la distinción municipal que se entrega anualmente con motivo de los festejos patronales"
+		},
+		{
+			"titular": "Disponibles en el Centro Motilla las invitaciones para la película \"Smallfoot\"",
+			"noticia": "El estreno del cine de verano en la Plaza de Toros será este jueves a las 22:30 horas en la Plaza de Toros. Se pueden recoger de 8 a 15 horas"
+		},
+		{
+			"titular": "El Ayuntamiento acomete la renovación de la red de saneamiento en calle Triunfo",
+			"noticia": "La ejecución de la obra asciende a 52.500 euros. Se ha sustituido la tubería actual por otra de PVC, pasando de los 200mm a los 400 mm de diámetro. Con esta acción se da por finalizado el último plan de reparación con el que se completa cerca de 1 kilómetro de red de saneamiento ejecutado en los últimos 5 años. La obra obliga a mantener la vía cerrada al tráfico durante todo el mes"
+		}
+	]
+}
