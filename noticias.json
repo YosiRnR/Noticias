@@ -2,19 +2,31 @@
 	"noticias": [
 		{
 			"titular": "La Medalla de Honor \"Ciudad de Daimiel\" busca candidatos",
-			"noticia": "El Ayuntamiento de Daimiel abre este jueves la convocatoria de la distinción municipal que se entrega anualmente con motivo de los festejos patronales"
+			"noticia": "El Ayuntamiento de Daimiel abre este jueves la convocatoria de la distinción municipal que se entrega anualmente con motivo de los festejos patronales",
+			"numComentarios": 5,
+			"numMeGusta": 3,
+			"numCompartir": 7
 		},
 		{
 			"titular": "Disponibles en el Centro Motilla las invitaciones para la película \"Smallfoot\"",
-			"noticia": "El estreno del cine de verano en la Plaza de Toros será este jueves a las 22:30 horas en la Plaza de Toros. Se pueden recoger de 8 a 15 horas"
+			"noticia": "El estreno del cine de verano en la Plaza de Toros será este jueves a las 22:30 horas en la Plaza de Toros. Se pueden recoger de 8 a 15 horas",
+			"numComentarios": 1,
+			"numMeGusta": 7,
+			"numCompartir": 4
 		},
 		{
 			"titular": "El Ayuntamiento acomete la renovación de la red de saneamiento en calle Triunfo",
-			"noticia": "La ejecución de la obra asciende a 52.500 euros. Se ha sustituido la tubería actual por otra de PVC, pasando de los 200mm a los 400 mm de diámetro. Con esta acción se da por finalizado el último plan de reparación con el que se completa cerca de 1 kilómetro de red de saneamiento ejecutado en los últimos 5 años. La obra obliga a mantener la vía cerrada al tráfico durante todo el mes"
+			"noticia": "La ejecución de la obra asciende a 52.500 euros. Se ha sustituido la tubería actual por otra de PVC, pasando de los 200mm a los 400 mm de diámetro. Con esta acción se da por finalizado el último plan de reparación con el que se completa cerca de 1 kilómetro de red de saneamiento ejecutado en los últimos 5 años. La obra obliga a mantener la vía cerrada al tráfico durante todo el mes",
+			"numComentarios": 3,
+			"numMeGusta": 12,
+			"numCompartir": 2
 		},
 		{
 			"titular": "El Ayuntamiento abre la primera fase de los presupuestos participativos",
-			"noticia": "Los proyectos se podrán presentar hasta el lunes 2 de diciembre. Solo hace falta completa un \"sencillo documento\". Todos lo que obtengan el visto bueno de la comisión de Hacienda, entrarán en la votación popular del jueves 19 de diciembre. \"Queremos que nuestros vecinos se sientan protagonistas de los presupuestos\", destacaba el portavoz del equipo de Gobierno, Jesús David Sánchez de Pablo"
+			"noticia": "Los proyectos se podrán presentar hasta el lunes 2 de diciembre. Solo hace falta completa un \"sencillo documento\". Todos lo que obtengan el visto bueno de la comisión de Hacienda, entrarán en la votación popular del jueves 19 de diciembre. \"Queremos que nuestros vecinos se sientan protagonistas de los presupuestos\", destacaba el portavoz del equipo de Gobierno, Jesús David Sánchez de Pablo",
+			"numComentarios": 8,
+			"numMeGusta": 15,
+			"numCompartir": 6
 		}
 	]
 }
